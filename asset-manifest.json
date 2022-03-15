@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portafolio-tato/static/css/main.a7027c08.css",
+    "main.js": "/portafolio-tato/static/js/main.193794d2.js",
+    "static/media/el-tato.png": "/portafolio-tato/static/media/el-tato.b8f7b0c906680624e4d6.png",
+    "static/media/svg1.svg": "/portafolio-tato/static/media/svg1.1b46c9fc54dd545da8e4.svg",
+    "index.html": "/portafolio-tato/index.html",
+    "main.a7027c08.css.map": "/portafolio-tato/static/css/main.a7027c08.css.map",
+    "main.193794d2.js.map": "/portafolio-tato/static/js/main.193794d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7027c08.css",
+    "static/js/main.193794d2.js"
+  ]
+}
